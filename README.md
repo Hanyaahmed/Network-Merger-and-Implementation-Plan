@@ -40,27 +40,25 @@ The Network Merger and Implementation Plan project focused on integrating two se
 - Developed a detailed plan for IP addressing, VLAN segmentation, and routing.
 - Planned hardware and software upgrades necessary for seamless integration.
 
-Step 4: Security Implementation
+`Step 4: Security Implementation`
 
-Screenshot Example: Firewall Rules and Access Control
+- Defined firewall rules, access policies, and monitoring points to secure the merged network.
+- Included multi-factor authentication and password policy enhancements.
+  
+<img width="1536" height="1024" alt="Cloud-based Zero Trust Network Architecture" src="https://github.com/user-attachments/assets/649564f9-4ca8-4db0-9223-7078d8b50999" />
+
 Ref 4: Security Configuration Screenshot
 
-Defined firewall rules, access policies, and monitoring points to secure the merged network.
+`Step 5: Implementation & Testing`
 
-Included multi-factor authentication and password policy enhancements.
-
-Step 5: Implementation & Testing
-
-Screenshot Example: Testing and Validation Logs
 Ref 5: Test Plan & Results
 
 Simulated network traffic to validate connectivity and performance.
 
 Monitored logs to ensure security controls were effective and no unauthorized access occurred.
 
-Step 6: Documentation & Reporting
+`Step 6: Documentation & Reporting`
 
-Screenshot Example: Final Implementation Report
 Ref 6: Implementation Documentation
 
 Compiled comprehensive documentation of the merger process, including network diagrams, configurations, and risk mitigation steps.
